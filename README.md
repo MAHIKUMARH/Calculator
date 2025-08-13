@@ -12,4 +12,4 @@ A simple calculator with a graphical interface built using Python and Tkinter.
 ## How to Run
 
 ```bash
-python calculator.py
+calculator.py
